@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 0
+    path: Assets/Cartoon Cave Kit/DemoScene/demo.unity
+    guid: 3ec2a5de52106e44695273a68ca4346b
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 3507f9761fe4fb549b2db74b4f5ed7f3
+  - enabled: 1
+    path: Assets/Scenes/NextScene.unity
+    guid: bcfb1a8130fdb8f4d958d1ccbda29cde
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 53cfc303c088162489a065ce86b48570,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 263d82f6450394e4e99fcdc4830cc795,
+      type: 2}
